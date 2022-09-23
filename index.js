@@ -1,6 +1,4 @@
 
-getData();
-
 async function getData() {
     const response = await fetch('NYPlants.csv');
     const data = await response.text();
