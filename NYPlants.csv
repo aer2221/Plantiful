@@ -29,39 +29,41 @@ Claytonia caroliniana,Carolina Springbeauty,Perennial,Herb,Part-shade,Wet and mo
 Claytonia virginica,"Virginia Springbeauty, Springbeauty",Perennial,Herb,Part-shade,Moist
 Conoclinium coelestinum,"Blue Mistflower, Wild Ageratum, Blue Boneset",Perennial,Herb,"Sun, Part-shade",Moist
 Coreopsis lanceolata,"Lanceleaf Coreopsis, Lance-leaved Coreopsis, Lanceleaf Tickseed, Sand Coreopsis",Perennial,Herb,"Sun, Shade, Part-shade",Dry
-Cornus alternifolia,"Alternateleaf Dogwood, Alternate-leaf Dogwood, Pagoda Dogwood",Perennial,Shrub,"Shade, Part-shade",Moist
-Cornus florida,"Flowering Dogwood, Virginia Dogwood, Florida Dogwood, White Cornel, Arrowwood, American Boxwood, False Box, St. Peter's Crown, Corona De San Pedro",Perennial,Tree,"Shade, Part-shade",Moist and dry
+Cornus alternifolia,Alternateleaf Dogwood,Perennial,Shrub,Shade & part-shade,Moist
+Cornus florida,Flowering Dogwood,Perennial,Tree,Shade & Part-shade,Moist and dry
 Desmodium canadense,Showy Tick Trefoil,Perennial,Herb,Sun,Moist and dry
-Eutrochium purpureum,"Purple Joepyeweed, Sweet-scented Joepyeweed, Sweet Joepyeweed",Perennial,Herb,"Sun, Shade, Part-shade",Moist
-Fagus grandifolia,"American Beech, White Beech, Red Beech, Ridge Beech, Beechnut Tree",Perennial,Tree,"Shade, Part-shade",Moist
-Fothergilla gardenii,"Dwarf Witchalder, Dwarf Witch-alder, Dwarf Fothergilla",Perennial,Shrub,"Sun, Part-shade",
-Fraxinus americana,"White Ash, American Ash, Cane Ash, Smallseed White Ash, Biltmore White Ash, Biltmore Ash",Perennial,Tree,"Sun, Shade, Part-shade",Moist and dry
-Fraxinus nigra,Black Ash,Perennial,Tree,"Sun, Shade, Part-shade","Wet, Moist"
-Gaultheria procumbens,"Eastern Teaberry, Wintergreen, Checkerberry",Perennial,Shrub,"Shade, Part-shade","Moist, Dry"
-Gaylussacia baccata,Black Huckleberry,Perennial,Shrub,"Sun, Shade, Part-shade","Wet, Moist, Dry"
+Eutrochium purpureum,Purple Joepyeweed,Perennial,Herb,Sun & shade & part-shade,Moist
+Fagus grandifolia,American Beech,Perennial,Tree,Shade & part-shade,Moist
+Fothergilla gardenii,Dwarf Witchalder,Perennial,Shrub,Sun & part-shade,
+Fraxinus americana,White Ash,Perennial,Tree,Sun & shade & part-shade,Moist and dry
+Fraxinus nigra,Black Ash,Perennial,Tree,Sun & shade & part-shade,"Wet, Moist"
+Gaultheria procumbens,Eastern Teaberry,Perennial,Shrub,Shade & part-shade,"Moist, Dry"
+Gaylussacia baccata,Black Huckleberry,Perennial,Shrub,Sun & shade & part-shade,"Wet, Moist, Dry"
 Gaylussacia brachycera,Box Huckleberry,Perennial,Shrub,Part-shade,
-Helianthus tuberosus,"Jerusalem Artichoke, Sunchoke",Perennial,Herb,Sun,"Moist, Dry"
-Hibiscus moscheutos,"Crimson-eyed Rose-mallow, Marshmallow Hibiscus",Perennial,Shrub,"Sun, Part-shade","Wet, Moist"
-Hypericum prolificum,Shrubby St. John's-wort,Perennial,Shrub,"Shade, Part-shade","Moist, Dry"
-DryIlex opaca,"American Holly, White Holly, Prickly Holly, Evergreen Holly, Christmas Holly, Yule Holly",Perennial,Tree,"Sun, Shade, Part-shade","Wet, Dry"
-Juglans nigra,"Black Walnut, Eastern Black Walnut, American Black Walnut",Perennial,Tree,"Sun, Part-shade",Moist
-Juniperus virginiana,"Eastern Red Cedar, Eastern Redcedar, Virginia Juniper, Red Juniper, Pencil Cedar, Carolina Cedar, Red Savin, Baton Rouge",Perennial,Tree,"Sun, Shade, Part-shade",Dry
-Kalmia latifolia,"Mountain Laurel, Calico Bush, Kalmia",Perennial,Shrub,Part-shade,"Moist"
-Larix laricina,"Tamarack, American Larch, Hacmatack, Black Larch",Perennial,Tree,"Sun, Shade",
-Liatris spicata,"Dense Blazing Star, Dense Gayfeather, Dense Liatris, Marsh Blazing Star, Marsh Gayfeather, Marsh Liatris",Perennial,Herb,Sun,
-Liquidambar styraciflua,"Sweetgum, American Sweetgum, Red Gum, White Gum, Star-leaved Gum, Starleaf Gum, Alligator Tree, Satin Walnut, Bilsted, Liquidambar",Perennial,Tree,Part-shade,
-Liriodendron tulipifera,"Tulip Tree, Tulip Poplar, Yellow Poplar",Perennial,Tree,"Sun, Shade, Part-shade",
-Lobelia cardinalis,Cardinal Flower,Perennial,Herb,"Sun, Shade, Part-shade",
-Lobelia siphilitica,Great Blue Lobelia,Perennial,Herb,"Sun, Shade, Part-shade",
-Lupinus perennis,"Sundial Lupine, Wild Lupine",Perennial,Herb,"Sun, Part-shade",
-Maianthemum racemosum ssp. racemosum,"Feathery False Lily Of The Valley, False Spikenard, False Solomon's Seal, Solomon's Plume, Smilacina",Perennial,Herb,"Shade, Part-shade",
-Maianthemum stellatum,"Starry False Lily Of The Valley, Starry False Solomon's Seal, Star-flowered Solomon's Seal",Perennial,Herb,"Shade, Part-shade",
-Malus coronaria,"Sweet Crabapple, American Crab",Perennial,Tree,Part-shade,
-Matteuccia struthiopteris,Ostrich Fern,Perennial,"Herb, Fern","Shade, Part-shade",
-Mitchella repens,"Partridgeberry, Twinberry, Running Box, Pigeon Plum",Perennial,Herb,"Shade, Part-shade",
-Mitella diphylla,"Twoleaf Miterwort, Miterwort",Perennial,Herb,Shade,
-Monarda didyma,"Scarlet Beebalm, Oswego Tea, Red Bergamot",Perennial,Herb,"Sun, Part-shade",
-Monarda fistulosa,"Wild Bergamot, Beebalm",Perennial,Herb,"Sun, Part-shade",
+Helianthus tuberosus,Jerusalem Artichoke,Perennial,Herb,Sun,"Moist, Dry"
+Hibiscus moscheutos,Crimson-eyed Rose-mallow,Perennial,Shrub,Sun & part-shade,"Wet, Moist
+"
+Hypericum prolificum,Shrubby St. John's-wort,Perennial,Shrub,Shade & part-shade,"Moist, Dry"
+DryIlex opaca,American Holly,Perennial,Tree,Sun & shade & part-shade,"Wet, Dry"
+Juglans nigra,Black Walnut,Perennial,Tree,Sun & part-shade,Moist
+Juniperus virginiana,Eastern Red Cedar,Perennial,Tree,Sun & shade & part-shade,Dry
+Kalmia latifolia,Mountain Laurel,Perennial,Shrub,Part-shade,Moist
+Larix laricina,Tamarack,Perennial,Tree,Sun & shade,"Wet, Moist
+"
+Liatris spicata,Dense Blazing Star,Perennial,Herb,Sun,Moist
+Liquidambar styraciflua,Sweetgum,Perennial,Tree,Part-shade,Moist
+Liriodendron tulipifera,Tulip Tree,Perennial,Tree,Sun & shade & part-shade,Moist
+Lobelia cardinalis,Cardinal Flower,Perennial,Herb,Sun & shade & part-shade,"Wet, Moist"
+Lobelia siphilitica,Great Blue Lobelia,Perennial,Herb,Sun & shade & part-shade,"Wet, Moist"
+Lupinus perennis,Sundial Lupine,Perennial,Herb,Sun & part-shade,"Moist, Dry"
+Maianthemum racemosum ssp. racemosum,Feathery False Lily Of The Valley,Perennial,Herb,Shade & part-shade,"Moist, dry"
+Maianthemum stellatum,Starry False Lily Of The Valley,Perennial,Herb,Shade & part-shade,Moist
+Malus coronaria,Sweet Crabapple,Perennial,Tree,Part-shade,Moist
+Matteuccia struthiopteris,Ostrich Fern,Perennial,"Herb, Fern",Shade & part-shade,"Moist,dry"
+Mitchella repens,Partridgeberry,Perennial,Herb,Shade & part-shade,Moist
+Mitella diphylla,Twoleaf Miterwort,Perennial,Herb,Shade,"Wet, moist"
+Monarda didyma,Scarlet Beebalm,Perennial,Herb,Sun & part-shade,"Moist, dry"
+Monarda fistulosa,Wild Bergamot,Perennial,Herb,Sun & part-shade,Moist
 ,"Tupelo, Blackgum, Black Tupelo, Sourgum, Pepperidge, Tupelo Gum, Beetlebung",Perennial,Tree,"Sun, Shade, Part-shade",
 ,Cinnamon Fern,Perennial,"Herb, Fern","Sun, Shade, Part-shade",
 ,Interrupted Fern,Perennial,"Herb, Fern",Shade,
