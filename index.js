@@ -1,9 +1,11 @@
 
 async function getData() {
-    const response = await fetch('NYPlants.csv');
+    const response = await fetch('test.csv');
     const data = await response.text();
     const rows = data.split('\n').slice(1);
+    
     rows.forEach(plant => {
+        const elem = document.createElement("img");
         const row = plant.split(',');
         const scientificName = row[0];
         const commonName = row[1];
@@ -11,6 +13,9 @@ async function getData() {
         const habit = row[3];
         const sun = row[4];
         const water = row[5];
-        console.log(scientificName, commonName, duration, habit, sun, water);
+        const image = row[6];
+        console.log(image);
+        elem.src = image;
+      document.getElementById("darien").appendChild(elem);
     })
 }
