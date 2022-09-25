@@ -12,7 +12,7 @@ async function getData() {
   const div = document.getElementById('container');
   div.innerHTML = "";
   for(i = 0; i < 6; i++){
-    randInt = Math.floor(Math.random() * 14);
+    randInt = Math.floor(Math.random() * 64);
     const newDiv = document.createElement('div');
       div.appendChild(newDiv);
     newDiv.style.width = "350px";
